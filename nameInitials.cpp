@@ -25,5 +25,5 @@ int main()
                 break;
         }
         
-    cout << surname << " " << initials << endl;
+    cout << "Your initials are: " << surname << " " << initials << endl;
 }
